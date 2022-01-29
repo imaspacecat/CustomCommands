@@ -6,4 +6,4 @@ copy and paste this into your .bashrc (linux) or .bash_profile (mac):
 
 `source ~/.custom-commands.sh`
 
-close and open your terminal if you have not yet
+close and open your terminal if you have not yet done so
